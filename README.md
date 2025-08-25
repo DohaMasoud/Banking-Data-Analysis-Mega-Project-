@@ -1,7 +1,7 @@
 ## Banking Data Analysis
 ### 📌 Project Overview
 A team-based data analytics project focused on banking operations and customer insights. The project aimed to analyze customer activity, account usage, loan performance, card usage, and support interactions to help the bank improve customer retention, manage risks, and enhance operational efficiency.
-###👥 Team Contribution
+### 👥 Team Contribution
 ### My Role:
 - Designed and managed the Azure SQL Database for structured, scalable cloud storage.
 - Built and maintained the data pipeline for automated extraction and transformation.
@@ -32,3 +32,10 @@ A team-based data analytics project focused on banking operations and customer i
 - Targeted engagement: SMS/email reminders for loan activity & due dates.
 - Seasonal resource planning: hire/allocate more staff in peak months.
 - Risk monitoring for top loan holders to ensure repayment stability.
+
+## 📈 Dashboard  
+Here are some sample screenshots from the Power BI dashboard:  
+
+![Dashboard Overview](images/2025-08-13 (10))  
+![Loan Insights](images/2025-08-13 (11))  
+![Customer Trends](images/2025-08-13 (12))  
