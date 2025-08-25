@@ -31,5 +31,4 @@ A team-based data analytics project focused on banking operations and customer i
 - Bundle products (loans + accounts/cards) with incentives.
 - Targeted engagement: SMS/email reminders for loan activity & due dates.
 - Seasonal resource planning: hire/allocate more staff in peak months.
-
-Risk monitoring for top loan holders to ensure repayment stability.
+- Risk monitoring for top loan holders to ensure repayment stability.
