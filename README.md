@@ -37,4 +37,4 @@ A team-based data analytics project focused on banking operations and customer i
 Here are some sample screenshots from the Power BI dashboard:  
 
 ![Dashboard Overview](images/2025-08-13(10).png)  
-![Loan Insights](images/2025-08-13(11).png)  
+![Loan Insights](images/2025-08-13(13).png)  
