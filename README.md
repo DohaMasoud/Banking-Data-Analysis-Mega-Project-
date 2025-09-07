@@ -9,7 +9,7 @@ A team-based data analytics project focused on banking operations and customer i
 - Created an interactive Power BI dashboard to visualize trends and KPIs.
 - Authored the insights, challenges, and recommendation report for stakeholders.
 ## 🔧 Tools & Technologies
-### ☁️ Azure SQL Database – Data Pipelines – SQL Server – Power BI –  Python (Jupyter Notebook) – additional analytics & modeling
+### ☁️ Azure SQL Database – Data Pipelines – SQL Server – Power BI –  Python  – additional analytics & modeling
 ## 📊 Key Insights (Loan Analysis)
 
 - Total Loans: 2,500 (~$617M disbursed).
